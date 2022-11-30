@@ -1,0 +1,18 @@
+[submodule "_includes/extras"]
+	path = _includes/extras
+	url = https://github.com/SotVs/extras
+[submodule "_includes/text"]
+	path = _includes/text
+	url = https://github.com/SotVs/text
+[submodule "_gallery"]
+	path = _gallery
+	url = https://github.com/SotVs/_gallery
+[submodule "_quotes"]
+	path = _quotes
+	url = https://github.com/SotVs/_quotes
+[submodule "images"]
+	path = images
+	url = https://github.com/Vasdekis/images
+[submodule "_bibliography"]
+	path = _bibliography
+	url = https://github.com/SotVs/bibliography
